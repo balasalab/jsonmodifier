@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Json Convertor{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <form method="post">
+    <label for="inputjson">Input JSON</label>
+    <textarea name="inputjson" id="inputjson" required>{{ inputjson }}</textarea>
+    <label for="outputformat">Output JSON format</label>
+    <textarea name="outputformat" id="outputformat" required>{{ outputformat }}</textarea>
+    <input type="submit" value="Convert">
+  </form>
+  <div>
+  	{{ outputjson }}
+  </div>
+  <style type="text/css">
+  	textarea {
+  width: 450px;
+  height: 350px;
+}
+  </style>
+{% endblock %}

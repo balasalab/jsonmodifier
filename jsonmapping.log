@@ -1,0 +1,9 @@
+2019-09-25 15:09:12,180 | Given param value is data
+2019-09-26 12:01:46,439 | output_template dict type
+2019-09-26 12:01:46,447 | network|network
+2019-09-26 12:01:46,447 | {'network|DHCP'}
+2019-09-26 12:02:05,220 | output_template dict type
+2019-09-26 12:02:05,220 | network|wan1Comp|networkAddress
+2019-09-26 12:02:05,221 | {'network|network', 'network|wan1Comp|staticroutes'}
+2019-09-26 12:02:05,221 | network|wan1Comp
+2019-09-26 12:02:05,221 | {'network|wan1Comp|primary', 'network|wan1Comp|dnsprimary', 'network|wan1Comp|secondary', 'network|wan1Comp|Eg'}

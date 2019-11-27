@@ -1,0 +1,45 @@
+2019-09-26 11:23:36,724 | ComposeJson ==>
+2019-09-26 11:23:36,724 | ComposeJson ==>
+2019-09-26 11:23:36,724 | Reading output template...
+2019-09-26 11:23:36,724 | output template type : <class 'dict'>
+2019-09-26 11:23:36,724 | Given param value is data|songs|*|movie|name @split . 1
+2019-09-26 11:23:36,724 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:23:36,724 | add index in key : data|songs|*|movie|name
+2019-09-26 11:23:36,724 | data|songs|*|movie|name @split . 1, real param string  : ['data|songs|*|movie|name @split ', ' 1']
+2019-09-26 11:23:36,724 | data|songs|*|movie|name @split . 1, real param string  : ['data|songs|*|movie|name @split ', ' 1']
+2019-09-26 11:23:36,725 | data|songs|*|movie|name @split . 1, real param string  : ['data|songs|*|movie|name @split ', ' 1']
+2019-09-26 11:23:36,725 | data|songs|*|movie|name @split . 1, real param string  : ['data|songs|*|movie|name @split ', ' 1']
+2019-09-26 11:23:36,725 | data|songs|*|movie|name @split . 1, real param string  : ['data|songs|*|movie|name @split ', ' 1']
+2019-09-26 11:23:36,725 | data|songs|*|movie|name @split . 1, real param string  : ['data|songs|*|movie|name @split ', ' 1']
+2019-09-26 11:24:59,800 | ComposeJson ==>
+2019-09-26 11:24:59,800 | ComposeJson ==>
+2019-09-26 11:24:59,800 | Reading output template...
+2019-09-26 11:24:59,800 | output template type : <class 'dict'>
+2019-09-26 11:24:59,800 | Given param value is data|songs|*|movie|name @split . 1
+2019-09-26 11:24:59,800 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:24:59,800 | add index in key : data|songs|*|movie|name
+2019-09-26 11:24:59,801 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name @split . 1']
+2019-09-26 11:24:59,801 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name @split . 1']
+2019-09-26 11:24:59,801 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name @split . 1']
+2019-09-26 11:24:59,801 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name @split . 1']
+2019-09-26 11:24:59,801 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name @split . 1']
+2019-09-26 11:24:59,801 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name @split . 1']
+2019-09-26 11:26:03,739 | ComposeJson ==>
+2019-09-26 11:26:03,740 | ComposeJson ==>
+2019-09-26 11:26:03,740 | Reading output template...
+2019-09-26 11:26:03,740 | output template type : <class 'dict'>
+2019-09-26 11:26:03,740 | Given param value is data|songs|*|movie|name @split . 1
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:26:03,740 | add index in key : data|songs|*|movie|name
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name']
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name']
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name']
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:26:03,740 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name']
+2019-09-26 11:26:03,741 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:26:03,741 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name']
+2019-09-26 11:26:03,741 | data|songs|*|movie|name @split . 1, functions : ['data|songs|*|movie|name ', 'split . 1']
+2019-09-26 11:26:03,741 | data|songs|*|movie|name @split . 1, real param string  : ['data', 'songs', '*', 'movie', 'name']
